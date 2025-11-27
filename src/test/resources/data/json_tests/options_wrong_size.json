@@ -1,0 +1,9 @@
+[
+  {
+    "Category": "Geography",
+    "Value": 100,
+    "Question": "What is the capital of France?",
+    "Options": { "A": "Paris", "B": "Lyon" },
+    "CorrectAnswer": "A"
+  }
+]

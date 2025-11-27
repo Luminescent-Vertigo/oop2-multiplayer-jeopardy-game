@@ -1,0 +1,26 @@
+[
+  {
+    "Category": "Science",
+    "Value": 100,
+    "Question": "What is H2O?",
+    "Options": {
+      "A": "Water",
+      "B": "Oxygen",
+      "C": "Hydrogen",
+      "D": "Salt"
+    },
+    "CorrectAnswer": "A"
+  },
+  {
+    "Category": "Math",
+    "Value": 200,
+    "Question": "2 + 2 = ?",
+    "Options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "22"
+    },
+    "CorrectAnswer": "B"
+  }
+]

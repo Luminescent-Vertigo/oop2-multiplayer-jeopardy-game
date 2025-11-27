@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Main.java",
+            "request": "launch",
+            "mainClass": "oop2.jeopardy.Main",
+            "projectName": "oop2-multiplayer-jeopardy-game"
+        }
+    ]
+}

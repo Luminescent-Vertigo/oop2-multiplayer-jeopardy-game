@@ -1,0 +1,16 @@
+<Questions>
+    <QuestionItem>
+        <Category>Science</Category>
+        <Value>100</Value>
+        <QuestionText>What is H2O?</QuestionText>
+        <Options>
+            <OptionA>Water</OptionA>
+            <OptionB>Oxygen</OptionB>
+            <OptionC>Hydrogen</OptionC>
+            <OptionD>Salt</OptionD>
+        </Options>
+        <CorrectAnswer>A</CorrectAnswer>
+        <ExtraField1>ignore me</ExtraField1>
+        <ExtraField2>123</ExtraField2>
+    </QuestionItem>
+</Questions>

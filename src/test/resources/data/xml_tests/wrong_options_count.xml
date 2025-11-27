@@ -1,0 +1,12 @@
+<Questions>
+    <QuestionItem>
+        <Category>Science</Category>
+        <Value>100</Value>
+        <QuestionText>What is H2O?</QuestionText>
+        <Options>
+            <OptionA>Water</OptionA>
+            <OptionB>Oxygen</OptionB>
+        </Options>
+        <CorrectAnswer>A</CorrectAnswer>
+    </QuestionItem>
+</Questions>

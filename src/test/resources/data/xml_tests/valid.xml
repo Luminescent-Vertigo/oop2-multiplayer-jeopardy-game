@@ -1,0 +1,26 @@
+<Questions>
+    <QuestionItem>
+        <Category>Science</Category>
+        <Value>100</Value>
+        <QuestionText>What is H2O?</QuestionText>
+        <Options>
+            <OptionA>Water</OptionA>
+            <OptionB>Oxygen</OptionB>
+            <OptionC>Hydrogen</OptionC>
+            <OptionD>Salt</OptionD>
+        </Options>
+        <CorrectAnswer>A</CorrectAnswer>
+    </QuestionItem>
+    <QuestionItem>
+        <Category>Math</Category>
+        <Value>200</Value>
+        <QuestionText>2 + 2 = ?</QuestionText>
+        <Options>
+            <OptionA>3</OptionA>
+            <OptionB>4</OptionB>
+            <OptionC>5</OptionC>
+            <OptionD>22</OptionD>
+        </Options>
+        <CorrectAnswer>B</CorrectAnswer>
+    </QuestionItem>
+</Questions>

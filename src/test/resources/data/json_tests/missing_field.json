@@ -1,0 +1,8 @@
+[
+  {
+    "Value": 200,
+    "Question": "What planet is known as the Red Planet?",
+    "Options": { "A": "Earth", "B": "Mars", "C": "Jupiter", "D": "Saturn" },
+    "CorrectAnswer": "B"
+  }
+]

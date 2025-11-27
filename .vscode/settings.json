@@ -1,0 +1,8 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {},
+    "code-runner.executorMapByFileExtension": {
+        ".java": "cd $workspaceFolder && mvn compile exec:java -Dexec.mainClass=oop2.jeopardy.Main"
+    }
+}

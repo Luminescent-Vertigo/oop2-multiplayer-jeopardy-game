@@ -1,0 +1,96 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/student/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar;C:/Users/student/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar;C:/Users/student/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar;C:/Users/student/.m2/repository/org/apache/commons/commons-csv/1.10.0/commons-csv-1.10.0.jar;C:/Users/student/.m2/repository/org/apache/poi/poi-ooxml/5.2.5/poi-ooxml-5.2.5.jar;C:/Users/student/.m2/repository/org/apache/poi/poi/5.2.5/poi-5.2.5.jar;C:/Users/student/.m2/repository/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar;C:/Users/student/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar;C:/Users/student/.m2/repository/com/zaxxer/SparseBitSet/1.3/SparseBitSet-1.3.jar;C:/Users/student/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.5/poi-ooxml-lite-5.2.5.jar;C:/Users/student/.m2/repository/org/apache/xmlbeans/xmlbeans/5.2.0/xmlbeans-5.2.0.jar;C:/Users/student/.m2/repository/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.jar;C:/Users/student/.m2/repository/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar;C:/Users/student/.m2/repository/com/github/virtuald/curvesapi/1.08/curvesapi-1.08.jar;C:/Users/student/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar;C:/Users/student/.m2/repository/org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1.jar;C:/Users/student/.m2/repository/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar;C:/Users/student/.m2/repository/org/apache/pdfbox/pdfbox/2.0.30/pdfbox-2.0.30.jar;C:/Users/student/.m2/repository/org/apache/pdfbox/fontbox/2.0.30/fontbox-2.0.30.jar;C:/Users/student/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'21'
+-sourcepath
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'oop2-multiplayer-jeopardy-game 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'oop2-multiplayer-jeopardy-game 1.0-SNAPSHOT API'
+oop2.jeopardy.factory
+oop2.jeopardy.game
+oop2.jeopardy.logging
+oop2.jeopardy
+oop2.jeopardy.model
+oop2.jeopardy.parser
+oop2.jeopardy.report
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/factory/ParserFactory.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/game/Game.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/game/GameBoard.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/game/GameHistory.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/game/GameRecord.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/game/Player.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/game/QuestionBank.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/game/TurnManager.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/logging/GameEventLogger.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/Main.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/model/Category.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/model/Question.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/parser/CsvParser.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/parser/JsonParser.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/parser/QuestionParser.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/parser/XmlParser.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/report/DocxReportGenerator.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/report/PdfReportGenerator.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/report/ReportGenerator.java'
+'C:/Users/student/Downloads/oop2-multiplayer-jeopardy-game/src/main/java/oop2/jeopardy/report/TxtReportGenerator.java'
+C:\Users\student\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.6\jackson-databind-2.9.6.jar = 1763742498984
+C:\Users\student\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar = 1763742499114
+C:\Users\student\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.6\jackson-core-2.9.6.jar = 1763742499314
+C:\Users\student\.m2\repository\org\apache\commons\commons-csv\1.10.0\commons-csv-1.10.0.jar = 1762690462282
+C:\Users\student\.m2\repository\org\apache\poi\poi-ooxml\5.2.5\poi-ooxml-5.2.5.jar = 1763141630917
+C:\Users\student\.m2\repository\org\apache\poi\poi\5.2.5\poi-5.2.5.jar = 1763141631586
+C:\Users\student\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar = 1763141631638
+C:\Users\student\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar = 1763141632735
+C:\Users\student\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar = 1763141631523
+C:\Users\student\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.5\poi-ooxml-lite-5.2.5.jar = 1763141633650
+C:\Users\student\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.0\xmlbeans-5.2.0.jar = 1763141632296
+C:\Users\student\.m2\repository\org\apache\commons\commons-compress\1.25.0\commons-compress-1.25.0.jar = 1763141632723
+C:\Users\student\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar = 1763141632808
+C:\Users\student\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar = 1763141632616
+C:\Users\student\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar = 1763141633175
+C:\Users\student\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar = 1763263408916
+C:\Users\student\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar = 1763299655982
+C:\Users\student\.m2\repository\org\apache\pdfbox\pdfbox\2.0.30\pdfbox-2.0.30.jar = 1763142301730
+C:\Users\student\.m2\repository\org\apache\pdfbox\fontbox\2.0.30\fontbox-2.0.30.jar = 1763142302376
+C:\Users\student\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1763142301864
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\src\main\java = 1762543116030
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\allclasses-index.html = 1764207434654
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\allpackages-index.html = 1764207434660
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\constant-values.html = 1764207434341
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\copy.svg = 1764207434756
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\element-list = 1764207434201
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\help-doc.html = 1764207434742
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\index-all.html = 1764207434728
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\index.html = 1764207434611
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\link.svg = 1764207434759
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\member-search-index.js = 1764207434673
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\module-search-index.js = 1764207434663
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\overview-summary.html = 1764207434734
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\overview-tree.html = 1764207434594
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\package-search-index.js = 1764207434665
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\script.js = 1764207434751
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\search-page.js = 1764207434768
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\search.html = 1764207434731
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\search.js = 1764207434764
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\stylesheet.css = 1764207434747
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\tag-search-index.js = 1764207434676
+C:\Users\student\Downloads\oop2-multiplayer-jeopardy-game\target\site\apidocs\type-search-index.js = 1764207434669

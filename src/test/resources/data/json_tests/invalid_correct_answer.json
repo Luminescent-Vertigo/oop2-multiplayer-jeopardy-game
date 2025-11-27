@@ -1,0 +1,9 @@
+[
+  {
+    "Category": "History",
+    "Value": 300,
+    "Question": "Who discovered America?",
+    "Options": { "A": "Columbus", "B": "Magellan", "C": "Vespucci", "D": "Cook" },
+    "CorrectAnswer": "Z"
+  }
+]
